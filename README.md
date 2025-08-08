@@ -1,4 +1,6 @@
 # Promedio-Ponderado-con-Filtros-Digitales
+El objetivo es generar métodos númericos a traves de codigos en python colab para compartirlos y evitar el robo de softwares.
+
 Primer codigo en Python/Colab para hacer calculo de promedio ponderado con Filtros Digitales
 
 # def weighted_average(values, weights):
